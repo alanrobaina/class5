@@ -1,0 +1,10 @@
+form {
+    border-color: black;
+    border-style: double;
+    border-radius: 5%;
+    width: 400px;
+    padding: 6px;
+    margin:auto;
+    background-color: #ccc;
+    }
+

@@ -1,0 +1,66 @@
+body{
+    background-image:url(fotodefondochef.jpg);
+    background-attachment:fixed;
+    background-repeat: inherit;
+    margin: 0;
+    
+}
+/* aqui se puso fondo de imagen a la pagina principal*/
+
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    background-color: white;
+}
+/* barra de busqueda */
+.barra{
+background-color: black;
+z-index: 100;
+float: right;
+width: 25%;
+
+}
+
+/* esta es la barra de contactos... */
+.head-brand{
+    text-align: left;
+    width: 75%;
+    height: 30%;
+    background-color: brown;
+    float: left;
+}
+
+/* aqui esta el aside */
+aside{
+    float: right;
+    background-color: whitesmoke;
+    border: solid 1px;
+    padding: 20px;
+    border-radius: 6%;
+    position: relative;
+    
+    
+    
+
+}
+
+footer{
+    width: 100%;
+    background-color: brown;
+    bottom: 0px;
+    clear: both;
+    position: fixed;
+    margin-top: 100px;
+
+}
+
+/* se agrego footer */
+
+/* main */
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
